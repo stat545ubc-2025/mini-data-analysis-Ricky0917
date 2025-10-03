@@ -784,7 +784,8 @@ Write the 4 questions and any additional comments below.
 > that almost always indicate a harmful tumor?
 
 > **Question 4:** Which features together give the clearest distinction
-> between harmless and harmful tumors? <!----------------------------->
+> between harmless and harmful tumors?
+<!----------------------------->
 
 # Overall reproducibility/Cleanliness/Coherence Checklist
 
@@ -852,3 +853,4 @@ You’ve tagged a release for Milestone 1.
 
 Thanks to Icíar Fernández Boyano for mostly putting this together, and
 Vincenzo Coia for launching.
+
