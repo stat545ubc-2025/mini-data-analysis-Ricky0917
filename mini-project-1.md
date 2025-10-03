@@ -461,7 +461,7 @@ to choose this one? Briefly explain your choice below.
 
 <!-------------------------- Start your work below ---------------------------->
 
-I have decided to select the `cancer_sample` dataset. Compared to other
+> I have decided to select the `cancer_sample` dataset. Compared to other
 datasets, it is relatively small and well-structured, without any
 missing values. it allows me to spend less time on data cleaning and
 focus especially on data analysis. The medical context holds more
@@ -851,6 +851,7 @@ You’ve tagged a release for Milestone 1.
 
 Thanks to Icíar Fernández Boyano for mostly putting this together, and
 Vincenzo Coia for launching.
+
 
 
 
