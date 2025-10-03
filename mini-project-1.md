@@ -604,10 +604,8 @@ cancer_sample %>% glimpse()
 
 ### Step 3: Plot histogram of mean radius
 
-Exercise 1, Plot the distribution of a numeric variable \>Measures the
-mean radius of tumor nuclei, which is a fundamental feature of tumor
-size. Exploring its distribution helps us understand how tumor sizes
-vary across samples
+Exercise 1, Plot the distribution of a numeric variable 
+> Measures the mean radius of tumor nuclei, which is a fundamental feature of tumor size. Exploring its distribution helps us understand how tumor sizes vary across samples
 
 ``` r
 cancer_sample %>%
@@ -628,9 +626,8 @@ radii are more likely malignant.
 ### Step 4: Create a new variable: `tumor_volume`
 
 Exercise 2, Create a new variable based on other variables in your data
-(only if it makes sense) \>Tumor size is not perfectly captured by
-single dimensions like radius; volume provides a more realistic measure
-of tumor size.
+(only if it makes sense) 
+> Tumor size is not perfectly captured by single dimensions like radius; volume provides a more realistic measure of tumor size.
 
 ``` r
 cancer_sample <- cancer_sample %>%
@@ -680,8 +677,8 @@ widely spread and shifted toward larger sizes.
 
 ### Step 5: Scatter plot showing `texture_worst` by diagnosis
 
-Exercise 4, Explore the relationship between 2 variables in a plot. \>we
-chose to explore a numeric variable representing the most extreme
+Exercise 4, Explore the relationship between 2 variables in a plot. 
+> We chose to explore a numeric variable representing the most extreme
 texture measurements of tumor nuclei, against (benign vs malignant).
 
 ``` r
@@ -715,7 +712,7 @@ for distinguishing benign from malignant tumors.
 Exercise 6, Use a boxplot to look at the frequency of different
 observations within a single variable. You can do this for more than one
 variable if you wish. 
->Boxplots are ideal for showing the distribution,
+> Boxplots are ideal for showing the distribution,
 median, interquartile range, and potential outliers of numeric variables
 across groups
 
@@ -854,5 +851,6 @@ You’ve tagged a release for Milestone 1.
 
 Thanks to Icíar Fernández Boyano for mostly putting this together, and
 Vincenzo Coia for launching.
+
 
 
