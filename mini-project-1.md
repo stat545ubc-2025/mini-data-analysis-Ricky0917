@@ -714,7 +714,8 @@ for distinguishing benign from malignant tumors.
 
 Exercise 6, Use a boxplot to look at the frequency of different
 observations within a single variable. You can do this for more than one
-variable if you wish. \>Boxplots are ideal for showing the distribution,
+variable if you wish. 
+>Boxplots are ideal for showing the distribution,
 median, interquartile range, and potential outliers of numeric variables
 across groups
 
@@ -853,4 +854,5 @@ You’ve tagged a release for Milestone 1.
 
 Thanks to Icíar Fernández Boyano for mostly putting this together, and
 Vincenzo Coia for launching.
+
 
