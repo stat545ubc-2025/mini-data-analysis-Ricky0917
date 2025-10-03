@@ -1,4 +1,5 @@
 # Mini Data-Analysis Project: Breast Cancer Dataset
+### Ruiqi Zang - 24075277
 
 ## About this repository
 This repository contains my exploratory data analysis project for STAT 545A. The project explores a breast cancer dataset to investigate differences between benign (harmless) and malignant (harmful) tumors, using numeric measurements such as tumor size, texture, and other characteristics.
@@ -11,4 +12,7 @@ This repository contains my exploratory data analysis project for STAT 545A. The
   2. Install required packages (`datateachr`, `tidyverse`) if needed.
   3. Knit the `.Rmd` file to view the analysis in HTML or Markdown format.
 
-This repository is structured for clarity and reproducibility, so that anyone familiar with STAT 545A can follow the analysis and reasoning behind the exploration of the dataset.
+## File Directory
+- README.md
+- mini-project-1.rmd
+- mini-project-1.md
