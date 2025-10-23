@@ -13,10 +13,14 @@ This repository contains my exploratory data analysis project for STAT 545A. The
   3. Knit the `.Rmd` file to view the analysis in HTML or Markdown format.
 
 ## File Directory
+### Milestone1
 - README.md
 - mini-project-1.rmd
 - mini-project-1.md
-
+### Milestone2
+- README.md
 - mini-project-2.rmd
 - mini-project-2.md
-- output file
+### output file
+- radius_summary.
+- tumor_size_model.rds
