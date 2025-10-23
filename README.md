@@ -16,3 +16,7 @@ This repository contains my exploratory data analysis project for STAT 545A. The
 - README.md
 - mini-project-1.rmd
 - mini-project-1.md
+
+- mini-project-2.rmd
+- mini-project-2.md
+- output file
